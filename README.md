@@ -1,2 +1,2 @@
-# ScannerJava
-Lexical Scanner with symbol table for identifiers and count lexemes and specify each character    
+<h1>Java Scanner</h1>
+<h4>The Simple Scanner is a software program designed to analyze programming code and identify the different lexemes (tokens) present within it. With its user-friendly interface and basic functionality, the Simple Scanner is an ideal tool for beginner programmers and developers seeking to understand the fundamental structures of codebases. It can handle a range of characters and operators, including keywords, identifiers, relational operators, delimiters, and digits, providing users with a simple yet comprehensive analysis of their code.</h4>
